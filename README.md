@@ -1,4 +1,4 @@
-# 🎤 InterviewAI — AI Mock Interview Platform
+# 🎤 AI Interview - AI Mock Interview Platform
 
 A voice-based AI interview platform that conducts realistic mock interviews across 8 technical domains. Built for backend developers with 2–4 years of experience preparing for product company interviews.
 
@@ -26,7 +26,7 @@ A voice-based AI interview platform that conducts realistic mock interviews acro
 |---|---|
 | DSA & Algorithms | Arrays, Trees, DP, Graphs |
 | System Design | Scalability, Caching, Architecture |
-| Python Backend | FastAPI, Django, Flask, pytest |
+| Python Backend | FastAPI, Flask, pytest |
 | Databases & Messaging | PostgreSQL, Redis, Kafka, Celery |
 | DevOps & Infrastructure | Docker, Kubernetes, Terraform, AWS |
 | AI & LLM Engineering | RAG, LangChain, Prompt Engineering |
