@@ -1,4 +1,4 @@
-# 🎤 AI Interview - AI Mock Interview Platform
+# 🎤 InterviewAI – AI Mock Interview Platform
 
 A voice-based AI interview platform that conducts realistic mock interviews across 8 technical domains. Built for backend developers with 2–4 years of experience preparing for product company interviews.
 
