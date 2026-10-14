@@ -136,9 +136,3 @@ ai-interviewer/
 ```
 
 ---
-
-## 👤 Author
-
-**Nihal**
-Python Backend Developer | Bengaluru
-[LinkedIn](#) · [GitHub](#)
